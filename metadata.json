@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield AI",
+  "description": "AI-based fake website and phishing URL detection system powered by a Random Forest classification model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
